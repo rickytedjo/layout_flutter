@@ -1,4 +1,4 @@
-Nama: Ricky Putra Pratama Tedjo
+Nama: Ricky Putra Pratama Tedjo \
 Kelas: TI-3C / 22
 
 # Praktikum 1
